@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 write another line 5 
 write line 6
+write line 7
